@@ -1,2 +1,2 @@
 # Guess-game
-Rock, paper and scissors game
+Could you guess the number
